@@ -1,6 +1,6 @@
 # ELOVIS:
 
-Is a technology company focusing on software development for AI solutions in cybersecurity, using cross-platform system that constantly adapts, improves security measures, data protection and compliance to mitigate evolving threats and provide self-healing cybersecurity.
+Is a technology startup company focusing on software development for AI solutions and cybersecurity, using cross-platform system that constantly adapts, improves security measures, data protection and compliance to mitigate evolving threats and provide self-healing cybersecurity.
 
 "​​We're transforming Cybersecurity with Hyper-automation."
 - to
